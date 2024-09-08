@@ -1,3 +1,4 @@
 # ADT7420_i2c_to_UART
 
-![image](https://github.com/user-attachments/assets/670ec794-c8cb-475f-b698-6ee8172136b2)
+![image](https://github.com/user-attachments/assets/5f35e12c-16f5-418f-badb-6f9c1d9cd515)
+
