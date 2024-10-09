@@ -1,5 +1,8 @@
 `timescale 1ns / 1ps
 
+/* Code inspired by the I2C design found in the textbook
+    FPGA Programming for Begineers by Frank Bruno        */
+
 module adt7420_i2c
 #(parameter MASTER_CLK_FREQ = 100_000_000, parameter CLK_PERIOD = 10 /*10 ns period*/)
 (
